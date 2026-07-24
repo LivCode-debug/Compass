@@ -1,0 +1,6 @@
+{
+  "name": "Compass",
+  "description": "Compass is a native Android application built with modern, declarative principles. It is designed to be highly efficient, minimizing battery drain while maximizing on-device inference speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
